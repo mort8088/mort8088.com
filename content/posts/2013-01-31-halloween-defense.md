@@ -3,19 +3,16 @@ title: Halloween Defense
 author: mort8088
 type: post
 date: 2013-01-31T00:00:06+00:00
-url: /2013/01/31/halloween-defense/
-featured_image: /wp-content/uploads/2013/01/Boxshot-480x372.png
+#url: /2013/01/31/halloween-defense/
+cover: /wp-content/uploads/2013/01/Boxshot-480x372.png
 
 ---
-<img decoding="async" loading="lazy" class="size-medium wp-image-59 alignleft" src="https://mort8088.com/wp-content/uploads/2013/01/Boxshot-240x300.png" alt="" width="240" height="300" srcset="https://mort8088.com/wp-content/uploads/2013/01/Boxshot-240x300.png 240w, https://mort8088.com/wp-content/uploads/2013/01/Boxshot.png 480w" sizes="(max-width: 240px) 100vw, 240px" />Help save Halloween from the pesky kids in this tower defence game.
+{{< image src="https://mort8088.com/wp-content/uploads/2013/01/Boxshot-240x300.png" alt="Halloween Defense" style="float:right; border-radius: 8px;">}}
+Help save Halloween from the pesky kids in this tower defence game.
 
 From the graveyard of the mummy to the forest of the witch, the Halloween monsters are here to help vanquish these horrible kids. A new and addictive tower defence game for the young and the old.
 
-Fresh interesting graphics which are all based on Halloween. It&#8217;s fun so how about giving it a go.<!--more-->
-
-
-
-&nbsp;
+Fresh interesting graphics which are all based on Halloween. It&#8217;s fun so how about giving it a go.
 
 <div id='gallery-1' class='gallery galleryid-167 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 

@@ -1,6 +1,6 @@
 baseURL = "https://mort8088.com/"
 languageCode = "en-GB"
-title = "Dave &#039;mort8088&#039; Henry"
+title = "Dave 'mort8088' Henry"
 theme = "terminal"
 paginate = 5
 
@@ -19,7 +19,7 @@ paginate = 5
   showLanguageSelector = false
 
   # set theme to full screen width
-  fullWidthTheme = true
+  fullWidthTheme = false
 
   # center theme with default width
   centerTheme = false
@@ -34,7 +34,7 @@ paginate = 5
   showLastUpdated = false
 
   # set a custom favicon (default is a `themeColor` square)
-  # favicon = "favicon.ico"
+  favicon = "favicon.ico"
 
   # Provide a string as a prefix for the last update date. By default, it looks like this: 2020-xx-xx [Updated: 2020-xx-xx] :: Author
   # updatedDatePrefix = "Updated"
@@ -43,15 +43,15 @@ paginate = 5
   # oneHeadingSize = true # default
 
   # whether to show a page's estimated reading time
-  # readingTime = false # default
+  readingTime = true # default
 
   # whether to show a table of contents
   # can be overridden in a page's front-matter
-  # Toc = false # default
+  Toc = true # default
 
   # set title for the table of contents
   # can be overridden in a page's front-matter
-  # TocTitle = "Table of Contents" # default
+  TocTitle = "Table of Contents" # default
 
 
 [params.twitter]
@@ -64,11 +64,11 @@ paginate = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Dave &#039;mort8088&#039; Henry"
+    title = "Dave 'mort8088' Henry"
     subtitle = "My Internet frontpage"
-    owner = ""
-    keywords = ""
-    copyright = ""
+    owner = "Dave Henry"
+    keywords = "keywords"
+    copyright = "<a href='https://creativecommons.org/licenses/by-sa/4.0/' target='_blank'>Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)</a>"
     menuMore = "Show more"
     readMore = "Read more"
     readOtherPosts = "Read other posts"
@@ -78,7 +78,7 @@ paginate = 5
     missingBackButtonLabel = "Back to home page"
 
     [languages.en.params.logo]
-      logoText = "Terminal"
+      logoText = "Dave 'mort8088' Henry"
       logoHomeLink = "/"
 
     [languages.en.menu]
@@ -87,6 +87,6 @@ paginate = 5
         name = "About"
         url = "/about"
       [[languages.en.menu.main]]
-        identifier = "showcase"
-        name = "Showcase"
-        url = "/showcase"
+        identifier = "Games"
+        name = "games"
+        url = "/games"
