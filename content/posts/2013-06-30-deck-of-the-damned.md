@@ -1,10 +1,18 @@
 ---
 title: Deck of the Damned
 author: mort8088
-type: post
-date: 2013-06-30T00:00:25+00:00
+type: "posts"
+date: "2013-06-30T00:00:25+00:00"
 url: /2013/06/30/deck-of-the-damned/
-featured_image: /wp-content/uploads/2021/12/Boxshot-2-480x372.png
+cover: /wp-content/uploads/2021/12/Boxshot-2-480x372.png
+authorTwitter: "mort8088" #do not include @
+tags : ["", ""]
+keywords : ["", ""]
+description : ""
+showFullContent : false
+readingTime : true
+hideComments : false
+color : "" #color from the theme settings
 
 ---
 <img decoding="async" loading="lazy" class="size-medium wp-image-113 alignleft" src="https://mort8088.com/wp-content/uploads/2021/12/Boxshot-2-218x300.png" alt="" width="218" height="300" srcset="https://mort8088.com/wp-content/uploads/2021/12/Boxshot-2-218x300.png 218w, https://mort8088.com/wp-content/uploads/2021/12/Boxshot-2-109x150.png 109w, https://mort8088.com/wp-content/uploads/2021/12/Boxshot-2.png 480w" sizes="(max-width: 218px) 100vw, 218px" />Deck of the Damned is a Creepy little Solitaire game where you have to enter Dracula&#8217;s mansion and play this scary little number,  it&#8217;s an old favourite.

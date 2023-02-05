@@ -1,12 +1,20 @@
 ---
-title: Halloween Defense
-author: mort8088
-type: post
-date: 2013-01-31T00:00:06+00:00
-#url: /2013/01/31/halloween-defense/
-cover: /wp-content/uploads/2013/01/Boxshot-480x372.png
-
+title: "Halloween Defense"
+date: "2013-01-31T00:00:06+00:00"
+author: "mort8088"
+type: "posts"
+url: "/2013/01/31/halloween-defense/"
+cover: "/wp-content/uploads/2013/01/Boxshot-480x372.png"
+authorTwitter: "mort8088" #do not include @
+tags : ["", ""]
+keywords : ["", ""]
+description : ""
+showFullContent : false
+readingTime : true
+hideComments : false
+color : "" #color from the theme settings
 ---
+
 {{< image src="https://mort8088.com/wp-content/uploads/2013/01/Boxshot-240x300.png" alt="Halloween Defense" style="float:right; border-radius: 8px;">}}
 Help save Halloween from the pesky kids in this tower defence game.
 

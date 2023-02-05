@@ -1,16 +1,18 @@
 ---
 title: How to start game development in Linux using MonoGame
 author: mort8088
-type: post
-date: 2022-03-05T00:00:23+00:00
+type: "posts"
+date: "2022-03-05T00:00:23+00:00"
 url: /2022/03/05/start-game-development-in-linux/
-featured_image: /wp-content/uploads/2022/02/MonoGame-SquareLogo_256px.png
-tags:
-  - Bash
-  - Game Development
-  - Indie-Game
-  - Linux
-  - MonoGame
+cover: /wp-content/uploads/2022/02/MonoGame-SquareLogo_256px.png
+authorTwitter: "mort8088" #do not include @
+tags : ["Bash", "Game Development", "Indie-Game", "Linux", "MonoGame"]
+keywords : ["", ""]
+description : ""
+showFullContent : false
+readingTime : true
+hideComments : false
+color : "" #color from the theme settings
 
 ---
 <img decoding="async" loading="lazy" src="https://mort8088.com/wp-content/uploads/2022/02/MonoGame-SquareLogo_256px.png" alt="MonoGame SquareLogo" width="256" height="256" class="alignleft size-full wp-image-217" srcset="https://mort8088.com/wp-content/uploads/2022/02/MonoGame-SquareLogo_256px.png 256w, https://mort8088.com/wp-content/uploads/2022/02/MonoGame-SquareLogo_256px-150x150.png 150w" sizes="(max-width: 256px) 100vw, 256px" />  

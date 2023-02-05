@@ -1,11 +1,18 @@
 ---
 title: Colony Defense
 author: mort8088
-type: post
-date: 2013-03-31T00:00:12+00:00
+type: "posts"
+date: "2013-03-31T00:00:12+00:00"
 url: /2013/03/31/colony-defense/
-featured_image: /wp-content/uploads/2021/12/box_shot-1-480x372.png
-
+cover: /wp-content/uploads/2021/12/box_shot-1-480x372.png
+authorTwitter: "mort8088" #do not include @
+tags : ["", ""]
+keywords : ["", ""]
+description : ""
+showFullContent : false
+readingTime : true
+hideComments : false
+color : "" #color from the theme settings
 ---
 <img decoding="async" loading="lazy" class="size-medium wp-image-81 alignleft" src="https://mort8088.com/wp-content/uploads/2021/12/box_shot-1-218x300.png" alt="" width="218" height="300" srcset="https://mort8088.com/wp-content/uploads/2021/12/box_shot-1-218x300.png 218w, https://mort8088.com/wp-content/uploads/2021/12/box_shot-1.png 480w" sizes="(max-width: 218px) 100vw, 218px" />Colony Defense is a simple tower defense game. It is set on the moon and you have to protect your base from alien blobs.
 

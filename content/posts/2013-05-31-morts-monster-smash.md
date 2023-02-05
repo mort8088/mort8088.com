@@ -1,10 +1,18 @@
 ---
 title: Mort’s Monster Smash
 author: mort8088
-type: post
-date: 2013-05-31T00:00:15+00:00
+type: "posts"
+date: "2013-05-31T00:00:15+00:00"
 url: /2013/05/31/morts-monster-smash/
-featured_image: /wp-content/uploads/2021/12/Boxshot-1-480x372.png
+cover: /wp-content/uploads/2021/12/Boxshot-1-480x372.png
+authorTwitter: "mort8088" #do not include @
+tags : ["", ""]
+keywords : ["", ""]
+description : ""
+showFullContent : false
+readingTime : true
+hideComments : false
+color : "" #color from the theme settings
 
 ---
 <img decoding="async" loading="lazy" class="size-medium wp-image-104 alignleft" src="https://mort8088.com/wp-content/uploads/2021/12/Boxshot-1-218x300.png" alt="" width="218" height="300" srcset="https://mort8088.com/wp-content/uploads/2021/12/Boxshot-1-218x300.png 218w, https://mort8088.com/wp-content/uploads/2021/12/Boxshot-1-109x150.png 109w, https://mort8088.com/wp-content/uploads/2021/12/Boxshot-1.png 480w" sizes="(max-width: 218px) 100vw, 218px" />Our regular characters from [Halloween Defense][1] are back in a fun little match 3 game.

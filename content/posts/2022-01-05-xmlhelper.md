@@ -1,9 +1,17 @@
 ---
 title: MORT8088.XML.XMLHELPER
 author: mort8088
-type: post
-date: 2022-01-05T20:22:12+00:00
+type: "posts"
+date: "2022-01-05T20:22:12+00:00"
 url: /2022/01/05/xmlhelper/
+authorTwitter: "mort8088" #do not include @
+tags : ["", ""]
+keywords : ["", ""]
+description : ""
+showFullContent : false
+readingTime : true
+hideComments : false
+color : "" #color from the theme settings
 
 ---
 The XmlHelper is a static class containing methods to complete a number of common tasks while working with XmlDocuments.<!--more-->

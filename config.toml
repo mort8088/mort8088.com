@@ -19,10 +19,10 @@ paginate = 5
   showLanguageSelector = false
 
   # set theme to full screen width
-  fullWidthTheme = true
+  fullWidthTheme = false
 
   # center theme with default width
-  centerTheme = false
+  centerTheme = true
 
   # if your resource directory contains an image called `cover.(jpg|png|webp)`,
   # then the file will be used as a cover automatically.
@@ -52,7 +52,6 @@ paginate = 5
   # set title for the table of contents
   # can be overridden in a page's front-matter
   TocTitle = "Table of Contents" # default
-
 
 [params.twitter]
   # set Twitter handles for Twitter cards

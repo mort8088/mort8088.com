@@ -1,16 +1,18 @@
 ---
 title: MonoGame – Tutorial 1 – Fonts
 author: mort8088
-type: post
-date: 2022-03-19T00:00:24+00:00
+type: "posts"
+date: "2022-03-19T00:00:24+00:00"
 url: /2022/03/19/monogame-tutorial-1-fonts/
 featured_image: /wp-content/uploads/2022/02/MonoGame-SquareLogo_256px.png
-tags:
-  - fonts
-  - Game Development
-  - mgcb snippets
-  - MonoGame
-  - tutorial
+authorTwitter: "mort8088" #do not include @
+tags : ["fonts", "Game Development", "mgcb snippets", "MonoGame", "tutorial"]
+keywords : ["", ""]
+description : ""
+showFullContent : false
+readingTime : true
+hideComments : false
+color : "" #color from the theme settings
 
 ---
 To get started with making games it&#8217;s often a good idea to be able to write out debug messages while you&#8217;re working on your game even if that&#8217;s just the current FPS. MonoGame doesn&#8217;t allow you to use the system fonts on the computer the game is running on you need to provide your own. To achieve this you need to add a font to your game to be used for writing strings to the screen.

@@ -1,16 +1,18 @@
 ---
 title: Bootstrapping your new game project
 author: mort8088
-type: post
-date: 2022-03-12T00:00:12+00:00
+type: "posts"
+date: "2022-03-12T00:00:12+00:00"
 url: /2022/03/12/bootstrapping-your-new-game-project/
 featured_image: /wp-content/uploads/2022/02/bash-logo-small.webp
-tags:
-  - Bash
-  - Game Development
-  - Indie-Game
-  - Linux
-  - MonoGame
+authorTwitter: "mort8088" #do not include @
+tags : ["Bash", Game Development"", "Indie-Game", "Linux", "MonoGame"]
+keywords : ["", ""]
+description : ""
+showFullContent : false
+readingTime : true
+hideComments : false
+color : "" #color from the theme settings
 
 ---
 When you&#8217;re just starting out with MonoGame programming on Linux it can be quite daunting especially if you&#8217;ve only ever used Visual Studio to create your projects, in this post I will give you a script that will get your project started so you can stop worrying about setting up your project and just get on with it.
