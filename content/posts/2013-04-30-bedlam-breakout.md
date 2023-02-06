@@ -23,7 +23,7 @@ You have to find the key that is in the last level to help the woman escape from
 
 While you are hitting those bricks there will be some power-ups and downs that you can catch, like Superball which will plough through all the bricks until the timer runs out.
 
-You start out with 3 lives and can catch a falling heart to get more. Once you lose all your lives it&#8217;s game over and the woman has to stay in Bedlam forever.  
+You start out with 3 lives and can catch a falling heart to get more. Once you lose all your lives it's game over and the woman has to stay in Bedlam forever.  
 <!--more-->
 
 

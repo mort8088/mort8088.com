@@ -20,7 +20,7 @@ Help save Halloween from the pesky kids in this tower defence game.
 
 From the graveyard of the mummy to the forest of the witch, the Halloween monsters are here to help vanquish these horrible kids. A new and addictive tower defence game for the young and the old.
 
-Fresh interesting graphics which are all based on Halloween. It&#8217;s fun so how about giving it a go.
+Fresh interesting graphics which are all based on Halloween. It's fun so how about giving it a go.
 
 <div id='gallery-1' class='gallery galleryid-167 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 

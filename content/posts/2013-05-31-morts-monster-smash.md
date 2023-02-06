@@ -19,7 +19,7 @@ color : "" #color from the theme settings
 
 The monsters have been caught and are being held in glass jars.  Your job is to match up 3 or more of these guys to release them from their glass prisons.
 
-You have to be quick though because if you don&#8217;t clear these monsters from their glass jars quick enough and they reach the top then it&#8217;s game over.<!--more-->
+You have to be quick though because if you don't clear these monsters from their glass jars quick enough and they reach the top then it's game over.<!--more-->
 
 <div id='gallery-5' class='gallery galleryid-175 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 

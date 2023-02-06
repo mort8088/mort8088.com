@@ -15,11 +15,11 @@ hideComments : false
 color : "" #color from the theme settings
 
 ---
-<img decoding="async" loading="lazy" class="size-medium wp-image-113 alignleft" src="https://mort8088.com/wp-content/uploads/2021/12/Boxshot-2-218x300.png" alt="" width="218" height="300" srcset="https://mort8088.com/wp-content/uploads/2021/12/Boxshot-2-218x300.png 218w, https://mort8088.com/wp-content/uploads/2021/12/Boxshot-2-109x150.png 109w, https://mort8088.com/wp-content/uploads/2021/12/Boxshot-2.png 480w" sizes="(max-width: 218px) 100vw, 218px" />Deck of the Damned is a Creepy little Solitaire game where you have to enter Dracula&#8217;s mansion and play this scary little number,  it&#8217;s an old favourite.
+<img decoding="async" loading="lazy" class="size-medium wp-image-113 alignleft" src="https://mort8088.com/wp-content/uploads/2021/12/Boxshot-2-218x300.png" alt="" width="218" height="300" srcset="https://mort8088.com/wp-content/uploads/2021/12/Boxshot-2-218x300.png 218w, https://mort8088.com/wp-content/uploads/2021/12/Boxshot-2-109x150.png 109w, https://mort8088.com/wp-content/uploads/2021/12/Boxshot-2.png 480w" sizes="(max-width: 218px) 100vw, 218px" />Deck of the Damned is a Creepy little Solitaire game where you have to enter Dracula's mansion and play this scary little number,  it's an old favourite.
 
 Deal the deck and then put all of the card types into piles, starting with an Ace and ending with a king in numerical order.
 
-Keep your eye open for the Ghost of the deck she&#8217;s one scary woman.
+Keep your eye open for the Ghost of the deck she's one scary woman.
 
 <!--more-->
 
