@@ -6,7 +6,7 @@ date: "2022-03-19T00:00:24+00:00"
 url: "/2022/03/19/monogame-tutorial-1-fonts/"
 cover: "/wp-content/uploads/2022/02/MonoGame-SquareLogo_256px-150x150.webp"
 authorTwitter: "mort8088" #do not include @
-tags : ["fonts", "Game_Development", "mgcb_Snippets", "MonoGame", "tutorial"]
+tags : ["fonts", "gameDevelopment", "mgcb_Snippets", "monoGame", "tutorial"]
 showFullContent : false
 readingTime : true
 hideComments : false

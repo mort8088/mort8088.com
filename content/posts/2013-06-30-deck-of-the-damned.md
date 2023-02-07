@@ -6,7 +6,7 @@ date: "2013-06-30T00:00:25+00:00"
 url: "/2013/06/30/deck-of-the-damned/"
 cover: "/wp-content/uploads/2021/12/Boxshot-2-109x150.webp"
 authorTwitter: "mort8088" #do not include @
-tags : ["Indie-Game", "solitaire", "cardGame", "xna", "windows"]
+tags : ["indieGame", "solitaire", "cardGame", "xna", "windows"]
 showFullContent : false
 readingTime : true
 hideComments : false

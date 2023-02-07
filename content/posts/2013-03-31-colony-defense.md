@@ -6,7 +6,7 @@ date: "2013-03-31T00:00:12+00:00"
 url: "/2013/03/31/colony-defense/"
 cover: "/wp-content/uploads/2021/12/box_shot-1-109x150.webp"
 authorTwitter: "mort8088" #do not include @
-tags : ["Indie-Game", "towerDefense", "xna", "windows"]
+tags : ["indieGame", "towerDefense", "xna", "windows"]
 keywords : ["", ""]
 description : ""
 showFullContent : false

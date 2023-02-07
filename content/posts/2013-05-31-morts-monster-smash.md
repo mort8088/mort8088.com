@@ -6,7 +6,7 @@ date: "2013-05-31T00:00:15+00:00"
 url: "/2013/05/31/morts-monster-smash/"
 cover: "/wp-content/uploads/2021/12/Boxshot-1-109x150.webp"
 authorTwitter: "mort8088" #do not include @
-tags : ["Indie-Game", "matchThree", "xna", "windows"]
+tags : ["indieGame", "matchThree", "xna", "windows"]
 showFullContent : false
 readingTime : true
 hideComments : false

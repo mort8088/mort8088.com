@@ -6,7 +6,7 @@ date: "2022-03-05T00:00:23+00:00"
 url: "/2022/03/05/start-game-development-in-linux/"
 cover: "/wp-content/uploads/2022/02/MonoGame-SquareLogo_256px-150x150.webp"
 authorTwitter: "mort8088" #do not include @
-tags : ["Bash", "Game_Development", "Indie-Game", "Linux", "MonoGame"]
+tags : ["bash", "gameDevelopment", "indieGame", "linux", "monoGame"]
 showFullContent : false
 readingTime : true
 hideComments : false

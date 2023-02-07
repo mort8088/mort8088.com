@@ -6,7 +6,7 @@ date: "2013-04-30T00:00:36+00:00"
 url: "/2013/04/30/bedlam-breakout/"
 cover: "/wp-content/uploads/2021/12/Boxshot-109x150.webp"
 authorTwitter: "mort8088" #do not include @
-tags : ["Indie-Game", "batNball", "xna", "windows"]
+tags : ["indieGame", "batNball", "xna", "windows"]
 keywords : ["", ""]
 description : ""
 showFullContent : false
@@ -28,4 +28,4 @@ You start out with 3 lives and can catch a falling heart to get more. Once you l
 {{< image src="/wp-content/uploads/2021/12/ScreenShot02-150x150.png" alt="" style="float: left;" >}}
 {{< image src="/wp-content/uploads/2021/12/ScreenShot03-150x150.png" alt="" style="clear: right;" >}}
 
-_Released as part of the 2013 One Game a Month._
+_Released as part of the 2013 One Game a Month.

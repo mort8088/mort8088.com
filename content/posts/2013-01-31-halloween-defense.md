@@ -6,7 +6,7 @@ type: "posts"
 url: "/2013/01/31/halloween-defense/"
 cover: "/wp-content/uploads/2013/01/Boxshot-120x150.webp"
 authorTwitter: "mort8088" #do not include @
-tags : ["Indie-Game", "towerDefense", "xna", "windows"]
+tags : ["indieGame", "towerDefense", "xna", "windows"]
 showFullContent : false
 readingTime : true
 hideComments : false

@@ -6,7 +6,7 @@ date: "2022-03-12T00:00:12+00:00"
 url: "/2022/03/12/bootstrapping-your-new-game-project/"
 cover: "/wp-content/uploads/2022/02/bash-logo-small-150x150.webp"
 authorTwitter: "mort8088" #do not include @
-tags : ["Bash", Game_Development"", "Indie-Game", "Linux", "MonoGame"]
+tags : ["bash", "gameDevelopment", "indieGame", "linux", "monoGame"]
 showFullContent : false
 readingTime : true
 hideComments : false
