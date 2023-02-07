@@ -3,6 +3,7 @@ languageCode = "en-GB"
 title = "Dave 'mort8088' Henry"
 theme = "terminal"
 paginate = 5
+disqusShortname= 'mort8088'
 
 [params]
   # dir name of your main content (default is `content/posts`).
@@ -87,5 +88,5 @@ paginate = 5
         url = "/about"
       [[languages.en.menu.main]]
         identifier = "Games"
-        name = "games"
+        name = "Games"
         url = "/games"
