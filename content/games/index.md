@@ -3,6 +3,9 @@ title: Games
 author: mort8088
 type: page
 date: 2022-01-06T18:51:11+00:00
+toc: false
+readingTime : false
+hideComments : true
 
 ---
 

@@ -4,7 +4,9 @@ author: mort8088
 type: page
 date: 2021-12-21T18:25:34+00:00
 cover: /wp-content/uploads/2021/12/GooglePlusCoverPhoto001.png
-
+toc: false
+readingTime : false
+hideComments : true
 ---
 
 {{< image src="https://mort8088.com/wp-content/uploads/2021/12/cropped-Me-512x512-1-270x270.png" alt="My Face" style="float:right; border-radius: 8px;" >}}

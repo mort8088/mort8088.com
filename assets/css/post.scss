@@ -22,8 +22,9 @@
 .post {
   width: 100%;
   text-align: left;
-  margin: 20px auto;
-  padding: 0px 0;
+  margin: 10px auto;
+  padding: 5px 0;
+  overflow: auto;
 
   &:not(:last-of-type) {
     border-bottom: 1px solid $border-color;
@@ -39,9 +40,10 @@
     $border: 3px dotted $accent;
     position: relative;
     color: $accent;
-    margin: 0 0 15px;
+    margin: 0 0 5px;
     padding-bottom: 15px;
     border-bottom: $border;
+    clear: both;
 
     &:after {
       content: '';
@@ -59,7 +61,7 @@
 
   &-tags {
     display: block;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     font-size: 1rem;
     opacity: .5;
 
@@ -69,18 +71,19 @@
   }
 
   &-content {
-    margin-top: 30px;
+    margin-top: 10px;
   }
 
   &-cover {
-    border: 20px solid $accent;
+    border: 5px outset $accent;
     background: transparent;
-    margin: 40px 0;
-    padding: 20px;
+    margin: 0px 0px 0px 10px;
+    padding: 5px;
+    float: right;
 
     @media ($phone) {
-      padding: 10px;
-      border-width: 10px;
+      padding: 5px;
+      border-width: 5px;
     }
   }
 

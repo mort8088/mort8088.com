@@ -3,6 +3,9 @@ title: Game Development
 author: mort8088
 type: page
 date: 2022-03-19T16:35:48+00:00
+toc: false
+readingTime : false
+hideComments : true
 
 ---
 ## Getting Started
