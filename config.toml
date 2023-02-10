@@ -83,10 +83,17 @@ disqusShortname= 'mort8088'
 
     [languages.en.menu]
       [[languages.en.menu.main]]
+        identifier = "home"
+        name = "Home"
+        url = "/"
+        weight = 10
+      [[languages.en.menu.main]]
         identifier = "about"
         name = "About"
         url = "/about"
+        weight = 20
       [[languages.en.menu.main]]
         identifier = "Games"
         name = "Games"
         url = "/games"
+        weight = 30
