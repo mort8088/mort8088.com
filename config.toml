@@ -14,7 +14,7 @@ disqusShortname= 'mort8088'
   themeColor = "orange"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 2
+  showMenuItems = 3
 
   # show selector to switch language
   showLanguageSelector = false
@@ -82,6 +82,10 @@ disqusShortname= 'mort8088'
       logoHomeLink = "/"
 
     [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "home"
+        name = "Home"
+        url = "/"
       [[languages.en.menu.main]]
         identifier = "about"
         name = "About"
