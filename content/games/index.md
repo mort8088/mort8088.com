@@ -79,9 +79,9 @@ From the graveyard of the mummy to the forest of the witch, the Halloween monste
 
 Fresh interesting graphics which are all based on Halloween. It’s fun so how about giving it a go.
 
- [1]: https://mort8088.com/games/deck-of-the-damned/
- [2]: https://mort8088.com/games/morts-monster-smash/
- [3]: https://mort8088.com/games/bedlam-breakout/
- [4]: https://mort8088.com/games/colony-defense/
- [5]: https://mort8088.com/games/dodge/
- [6]: https://mort8088.com/games/halloween-defense/
+ [1]: https://mort8088.com/2013/06/30/deck-of-the-damned/
+ [2]: https://mort8088.com/2013/05/31/morts-monster-smash/
+ [3]: https://mort8088.com/2013/04/30/bedlam-breakout/
+ [4]: https://mort8088.com/2013/03/31/colony-defense/
+ [5]: https://mort8088.com/2013/02/28/dodge/
+ [6]: https://mort8088.com/2013/01/31/halloween-defense/
