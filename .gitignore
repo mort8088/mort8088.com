@@ -69,3 +69,6 @@ bower_components
 # AWS stuff for publishing static files
 .aws-credentials.json
 .awspublish*
+
+# hide generated files
+resources/_gen/assets/scss/css/base.scss_997d102b57f87ae4d0d67e2b1aa7754c.content
