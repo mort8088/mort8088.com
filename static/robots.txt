@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mort8088.com/sitemap.xml
