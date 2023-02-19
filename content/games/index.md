@@ -2,14 +2,50 @@
 title: Games
 author: mort8088
 type: page
-date: 2022-01-06T18:51:11+00:00
+date: 2023-02-18T00:00:01+00:00
 toc: false
 readingTime : false
 hideComments : true
 
 ---
 
-## [Deck of the Damned][1] - 2013-06-30
+## [MonoTris][9] - 2022-04-24
+
+{{< image src="/wp-content/uploads/2022/02/03-MonoTris-GamePlay-97x150.webp" alt="" style="float:right;border: 5px outset #E73C00;background: transparent;margin: 0px 0px 0px 10px;padding: 5px;" >}}
+
+In 2022 I challenged myself to produce One Game A Month.
+
+A Tetris clone, Move block with arrow Keys, Up to Rotate, Down to speed up the drop.
+
+---
+
+## [MonoMine][8] - 2022-02-26
+
+{{< image src="/wp-content/uploads/2022/02/MonoMineScreenshot001-138x150.webp" alt="" style="float:right;border: 5px outset #E73C00;background: transparent;margin: 0px 0px 0px 10px;padding: 5px;" >}}
+
+In 2022 I challenged myself to produce One Game A Month.
+
+February's contribution to my One Game a Month 2022 challenge is MonoMine a quick copy of the windows classic.
+
+This month I put a little more effort into this because this game actually has game states like win and lose and actually gives some instruction to the player at the end of the game.
+
+With such amazing Special effects as text with drop shadowing and on the end screen if you placed a flag correctly on a mine it'll be coloured green and if not it'll be coloured a burnt orange.
+
+---
+
+## [Slider][7] - 2022-01-24
+
+{{< image src="/wp-content/uploads/2022/01/22-01-Slider-Screenshot-141x150.webp" alt="" style="float:right;border: 5px outset #E73C00;background: transparent;margin: 0px 0px 0px 10px;padding: 5px;" >}}
+
+In 2022 I challenged myself to produce One Game A Month.
+
+For January I made a sliding block puzzle game to ease back into things.
+
+Written using MonoGame on my Linux box mostly to prove that I could produce games for both Windows and Linux.
+
+---
+
+## [Deck of the Damned][6] - 2013-06-30
 
 {{< image src="/wp-content/uploads/2021/12/Boxshot-2-218x300.png" alt="" style="float:right;border: 5px outset #E73C00;background: transparent;margin: 0px 0px 0px 10px;padding: 5px;" >}}
 
@@ -21,7 +57,7 @@ Keep your eye open for the Ghost of the deck she’s one scary woman.
 
 ---
 
-## [Mort’s Monster Smash][2] - 2013-05-31
+## [Mort’s Monster Smash][5] - 2013-05-31
 
 {{< image src="/wp-content/uploads/2021/12/Boxshot-1-218x300.png" alt="" style="float:right;border: 5px outset #E73C00;background: transparent;margin: 0px 0px 0px 10px;padding: 5px;" >}}
 
@@ -33,7 +69,7 @@ You have to be quick though because if you don’t clear these monsters from the
 
 ---
 
-## [Bedlam Breakout][3] - 2013-04-30
+## [Bedlam Breakout][4] - 2013-04-30
 
 {{< image src="/wp-content/uploads/2021/12/Boxshot-218x300.png" alt="" style="float: right;border: 5px outset #E73C00;background: transparent;margin: 0px 0px 0px 10px;padding: 5px;" >}}
 
@@ -47,7 +83,7 @@ You start out with 3 lives and can catch a falling heart to get more. Once you l
 
 ---
 
-## [Colony Defense][4] - 2013-03-31
+## [Colony Defense][3] - 2013-03-31
 
 {{< image src="/wp-content/uploads/2021/12/box_shot-1-218x300.png" alt="" style="float: right;border: 5px outset #E73C00;background: transparent;margin: 0px 0px 0px 10px;padding: 5px;" >}}
 
@@ -59,7 +95,7 @@ the music by FoxSynergy is the best part of this game.
 
 ---
 
-## [Dodge][5] - 2013-02-28
+## [Dodge][2] - 2013-02-28
 
 {{< image src="/wp-content/uploads/2021/12/Box_Shot-218x300.png" alt="" style="float: right;border: 5px outset #E73C00;background: transparent;margin: 0px 0px 0px 10px;padding: 5px;" >}}
 
@@ -69,7 +105,7 @@ In the game, you are a little guy who is being chased by creeps. The idea is to 
 
 ---
 
-## [Halloween Defense][6] - 2013-01-31
+## [Halloween Defense][1] - 2013-01-31
 
 {{< image src="/wp-content/uploads/2013/01/Boxshot-240x300.png" alt="" style="float: right;border: 5px outset #E73C00;background: transparent;margin: 0px 0px 0px 10px;padding: 5px;" >}}
 
@@ -79,9 +115,12 @@ From the graveyard of the mummy to the forest of the witch, the Halloween monste
 
 Fresh interesting graphics which are all based on Halloween. It’s fun so how about giving it a go.
 
- [1]: https://mort8088.com/2013/06/30/deck-of-the-damned/
- [2]: https://mort8088.com/2013/05/31/morts-monster-smash/
- [3]: https://mort8088.com/2013/04/30/bedlam-breakout/
- [4]: https://mort8088.com/2013/03/31/colony-defense/
- [5]: https://mort8088.com/2013/02/28/dodge/
- [6]: https://mort8088.com/2013/01/31/halloween-defense/
+ [1]: /2013/01/31/halloween-defense/
+ [2]: /2013/02/28/dodge/
+ [3]: /2013/03/31/colony-defense/
+ [4]: /2013/04/30/bedlam-breakout/
+ [5]: /2013/05/31/morts-monster-smash/
+ [6]: /2013/06/30/deck-of-the-damned/
+ [7]: /2022/01/24/01-slider/
+ [8]: /2022/02/26/02-monomine/
+ [9]: /2022/04/24/03-monotris/

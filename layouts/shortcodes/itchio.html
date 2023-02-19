@@ -1,0 +1,3 @@
+{{ if .Get "src" }}
+    <iframe frameborder="5" src="{{ .Get "src" | safeURL }}?linkback=true&amp;bg_color=211f27&amp;fg_color=ffffff&amp;link_color=E73C00&amp;border_color=333333" width="100%" height="167"><a href="{{ .Get "href" | safeURL }}">{{ with .Get "name" }}{{ . | plainify }}{{ end }} by mort8088</a></iframe>
+{{ end }}

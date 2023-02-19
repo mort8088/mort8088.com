@@ -295,10 +295,11 @@ mark {
 }
 
 .container {
+  clear: both;
   display: flex;
   flex-direction: column;
-  padding: 40px;
-  max-width: 864px;
+  padding: 0 40px;
+  max-width: 1000px;
   min-height: 100vh;
   border-right: 1px solid rgba(255, 255, 255, 0.1);
 
@@ -313,7 +314,7 @@ mark {
   }
 
   @media ($phone) {
-    padding: 20px;
+    padding: 0 20px;
   }
 
   @media print {
@@ -346,10 +347,35 @@ sup {
 }
 
 .footerextended {
-  width: 48%;
+  width: 45%;
+}
+
+.headerextended {
+  background-color: black;
+  height:40px;
+  margin: 0;
+
+  ul{
+    float:left;
+    margin: 8px;
+    list-style: none;
+    padding-left: 5px;
+
+    li {
+      display:inline;
+      color: $accent;
+    }
+  }
+
+  a {
+    float: right;
+    margin: 4px;
+  }
 }
 
 /*
  * h-card classes
  */
- .h-card, .e-content, .p-name, .p-author, .p-note, .u-url, .u-photo, .dt-published  { }
+.h-card, .e-content, .p-name, .p-author, .p-note, .u-url, .u-photo, .dt-published  { 
+  box-sizing: inherit;
+}
