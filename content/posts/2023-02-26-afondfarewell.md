@@ -10,7 +10,6 @@ showFullContent = false
 readingTime = true
 hideComments = false
 toc = false
-draft = true
 
 +++
 
