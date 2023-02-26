@@ -13,6 +13,6 @@ toc = false
 
 +++
 
-As I mentioned in a post a few weeks ago, My Father passed away in January, we were finally able to lay him to rest this week so I was a little distracted for the begging of the week. Then I had to make the trip to Cardiff for the funeral mid week. The day after the funeral I took the opportunity to catch up with some of my oldest friends.
+As I mentioned in a post a few weeks ago, My Father passed away in January, we were finally able to lay him to rest this week so I was a little distracted for the beginning of the week. Then I had to make the trip to Cardiff for the funeral mid week. The day after the funeral I took the opportunity to catch up with some of my oldest friends.
 
 Other than that I didn't really get anything else done, this weeks post is just this, sorry. Normal service will resume next week.
