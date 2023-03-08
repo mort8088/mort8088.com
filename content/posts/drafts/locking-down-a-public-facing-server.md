@@ -2,8 +2,7 @@
 title: "Locking down a public facing server"
 author: "mort8088"
 type: "posts"
-date: "-001-11-30T00:00:00+00:00"
-draft: true
+date: "2023-01-01T00:00:00+00:00"
 url: /?p=122
 authorTwitter: "mort8088" #do not include @
 tags : ["", ""]
@@ -14,6 +13,7 @@ readingTime : true
 hideComments : false
 color : "" #color from the theme settings
 toc: true
+draft: true
 
 ---
 
