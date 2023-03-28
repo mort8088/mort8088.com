@@ -1,6 +1,6 @@
 +++
 title = "2023 February in Review"
-date = "2023-03-01T14:41:41Z"
+date = "2023-03-01T00:00:00Z"
 author = "mort8088"
 authorTwitter = "mort8088" #do not include @
 cover = "images/FebruaryDone.webp"
@@ -39,4 +39,4 @@ But wouldn't you know it leaving the house just one too many times and on the 27
 
 Also I almost forgot to say my Google Pixel 3 XL died, I'd noticed that the battery had blown slightly but then before I could get a replacement it just stopped working so now I have a Google Pixel 6a and I'm totally locked out of any 2fa accounts I had set up oh the joy.
 
-So come on March take you're best shot 'cos I'm not takeing any more shit.
+So come on March take your best shot 'cos I'm not takeing any more shit.

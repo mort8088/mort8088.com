@@ -13,7 +13,7 @@ hideComments : true
 
 Programming is my passion. I grew up at the start of the video game era when the scope of what could be achieved was just being discovered. This revolutionary time drew me in, and I began my journey firstly as an enthusiastic home programmer, moving into the industry for my career. During the two decades that have passed since then, I have continued to grow and develop my knowledge, keeping at the forefront of software systems design and development and mastering their use.
 
-I enjoy using my skills across all fields, from designing custom projects to refining and optimising existing programmes. I love sharing my skills and knowledge with others, working as a trainer to support my colleague’s development. Despite the time that has passed some things never change – I still love to pursue my interest in my spare time and have written video games and participated in the Microsoft XNA community.
+I enjoy using my skills across all fields, from designing custom projects to refining and optimizing existing programmes. I love sharing my skills and knowledge with others, working as a trainer to support my colleague’s development. Despite the time that has passed some things never change – I still love to pursue my interest in my spare time and have written video games and participated in the Microsoft XNA community.
 
 * * *
 
