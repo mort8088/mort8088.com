@@ -15,17 +15,17 @@ toc = false
 
 ## ✍️ Website
 
-Getting Covid after going to the funeral last month I lost all oomph for doing ***anything*** which included writing for the site so around the 24th I decided to just write up the month round up and start again next month afresh, so here we go :smile:
+Getting Covid after going to the funeral last month I lost all oomph for doing ***anything*** which included writing for the site so around the 24th I decided to just write the month round up and start again next month afresh, so here we go 🙂
 
 ## 🍿 Watching
 
-We caught the last season of "[Endeavour](https://www.imdb.com/title/tt2701582)" on [ITVX](https://www.itv.com) this month and from that got the idea to watch the old episodes of "[Inspector Morse](https://www.imdb.com/title/tt0092379/)" which is good just very dated now :smirk:. I spend so much time doing things like pointing at the screen and saying "Look a real train not like the crap you get now" and "He's getting upset over paying £1.92 for ***2*** Pints of beer!?! That's 96p a pint!". It's like watching a time capsule into my childhood seeing as it was filmed from the late '80s through the '90s
+We caught the last season of "[Endeavour](https://www.imdb.com/title/tt2701582)" on [ITVX](https://www.itv.com) this month and from that got the idea to watch the old episodes of "[Inspector Morse](https://www.imdb.com/title/tt0092379/)" which is good, just very dated now 😏. I spent so much time doing things like pointing at the screen and saying "Look a real train not like the crap you get now" and "He's getting upset over paying £1.92 for ***2*** Pints of beer!?! That's 96p a pint!". It's like watching a time capsule into my childhood seeing as it was filmed from the late '80s through the '90s
 
 Haven't had time to watch any films though this month because the episodes of Mores are about 2 hours each it doesn't leave much time for our normal TV watching let alone adding films in to that as well.
 
 ## 🎮 Gaming
 
-Caught up with the lads for [Golf](https://store.steampowered.com/app/431240/Golf_With_Your_Friends/) this month, and we've been playing some more [CS:GO](https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/), and all before they made the [CS2 announcement](https://www.counter-strike.net/newsentry/3716071937633222892) which I have to say is making me just a little bit excited :grin::nerd_face::bangbang:
+Caught up with the lads for [Golf](https://store.steampowered.com/app/431240/Golf_With_Your_Friends/) this month, and we've been playing some more [CS:GO](https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/), and all before they made the [CS2 announcement](https://www.counter-strike.net/newsentry/3716071937633222892) which I have to say is making me just a little bit excited 😆🤓‼️
 
 I also picked up "[Aliens: Fireteam Elite](https://store.steampowered.com/app/1549970/Aliens_Fireteam_Elite/)" in the Steam sale but I've only played an hour of it and it's not performing as well as I'd hoped with sub 30 FPS it's hard to get into. Though I do agree with people that have compared it to "L4D" so it might be worth trying to get the performance sorted out.
 
