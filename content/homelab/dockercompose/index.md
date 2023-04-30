@@ -7,7 +7,7 @@ cover: "images/DockerComposeLogo.webp"
 description: "Docker Compose is a tool for defining and running multi-container Docker applications. It allows developers to define a set of services and their dependencies in a single file, which can then be used to build and start the entire application stack with a single command. Docker Compose also provides features like scaling, networking, and environment variables to make it easier to manage complex applications."
 toc: false
 readingTime: false
-hideComments: true
+hideComments: false
 draft: true
 ---
 

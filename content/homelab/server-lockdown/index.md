@@ -7,8 +7,7 @@ cover: "images/BashLogo.webp"
 description: "Once you've installed the Operating System on your laptop we need to secure it so it's not so easy for someone to get into your data."
 toc: true
 readingTime: false
-hideComments: true
-draft: false
+hideComments: false
 ---
 
 Once you've installed the Operating System on your laptop we need to secure it so it's not so easy for someone to get into your data.
@@ -17,7 +16,7 @@ Once you've installed the Operating System on your laptop we need to secure it s
 
 Using SSH public/private keys is more secure than using a password. It also makes it easier and faster, to connect to our server because you don't have to enter a password.
 
-1. From the computer you're going to use to connect to your server, **the client**, not the server itself, create an [Ed25519](https://linux-audit.com/using-ed25519-openssh-keys-instead-of-dsa-rsa-ecdsa/) key with:
+1. From the computer you're going to use to connect to your server, **the client**, not the server itself, create an Ed25519[^1] key with:
 
     ``` bash
     ssh-keygen -t ed25519
@@ -53,7 +52,7 @@ Using SSH public/private keys is more secure than using a password. It also make
 
     **Note 2**: You only need to do this once after that you can skip to step 2 to copy this key to as many servers as you want they can all use the same key.
 
-2. Now you need to send the public key from your client to your server. Since we're at home on a LAN, we're probably safe from [M.I.M.](https://en.wikipedia.org/wiki/Man-in-the-middle_attack) attacks, so we'll use `ssh-copy-id` to transfer the public key:
+2. Now you need to send the public key from your client to your server. Since we're at home on a LAN, we're probably safe from MITM[^2] attacks, so we'll use `ssh-copy-id` to transfer the public key:
 
     ``` bash
     ssh-copy-id user@server
@@ -190,4 +189,7 @@ sudo ufw disable
 
 This tutorial presents the bare minimum needed to harden a Linux server. Additional security layers can and should be enabled depending on how a server is used. These layers can include things like individual application configurations, intrusion detection software, and enabling access controls, e.g., two-factor authentication.
 
-That's it for today's tutorial. Next we'll set-up docker. If you have any questions or feedback, feel free to leave a comment below. And don't forget to subscribe to the blog so you'll know when I post the next exciting installment.
+That's it for today, next we'll set-up an external Hard drive to hold all our data. If you have any questions or feedback, feel free to leave a comment below. And don't forget to subscribe to the blog so you'll know when I post the next exciting installment.
+
+[^1]: [Ed25519](https://linux-audit.com/using-ed25519-openssh-keys-instead-of-dsa-rsa-ecdsa/) In public-key cryptography, Edwards-curve Digital Signature Algorithm (EdDSA) is a digital signature scheme using a variant of Schnorr signature based on twisted Edwards curves. It is designed to be faster than existing digital signature schemes without sacrificing security.
+[^2]: [MITM](https://en.wikipedia.org/wiki/Man-in-the-middle_attack) In cryptography and computer security, a man-in-the-middle attack is a cyberattack where the attacker secretly relays and possibly alters the communications between two parties who believe that they are directly communicating with each other, as the attacker has inserted themselves between the two parties.

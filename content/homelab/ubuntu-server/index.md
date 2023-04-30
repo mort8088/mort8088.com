@@ -8,7 +8,7 @@ cover: "images/usb-drive.webp"
 description: "I'm going to show you how to install Ubuntu Server on your old laptop that's been collecting dust in your closet. Why? Well, for starters, you can use it as a personal cloud storage, a media server, a VPN server, a web server, or even a Minecraft server. The possibilities are endless."
 toc: false
 readingTime: false
-hideComments: true
+hideComments: false
 ---
 
 I'm going to show you how to install Ubuntu Server on your old laptop that's been collecting dust in your closet. Why? Well, for starters, you can use it as a personal cloud storage, a media server, a VPN server, a web server, or even a Minecraft server. The possibilities are endless.

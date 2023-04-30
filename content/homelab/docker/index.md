@@ -7,8 +7,7 @@ cover: "images/DockerLogo.webp"
 description: "Docker is an open-source platform that allows developers to build, package, and run applications in containers, providing an efficient and consistent way to move software between development, testing, and production environments. Containers are lightweight, portable, and isolate applications from their environment, making them easier to manage and deploy."
 toc: false
 readingTime: false
-hideComments: true
-draft: true
+hideComments: false
 ---
 
 Once you've installed the Operating System on your laptop, you can install Docker. Begin by adding dependencies needed by the installation process:
