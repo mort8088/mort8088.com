@@ -1,56 +1,84 @@
 {{ define "main" }}
+<div class="index-content">
+  {{- $cover := false -}}
+  {{- $autoCover := default $.Site.Params.autoCover false }}
+
+  {{- if index .Params "cover" -}}
+    {{- if .Resources.GetMatch .Params.Cover }}
+      {{- $cover = (.Resources.GetMatch .Params.Cover).RelPermalink -}}
+    {{- else -}}
+      {{- $cover = absURL .Params.Cover -}}
+    {{- end -}}
+  {{- else if $.Site.Params.AutoCover -}}
+    {{- if (not .Params.Cover) -}}
+      {{- if .Resources.GetMatch "cover.*" -}}
+        {{- $cover = (.Resources.GetMatch "cover.*").RelPermalink -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+
+  {{if $cover -}}
+    <!-- Cover image found -->
+    <img src="{{ $cover }}"
+      class="post-cover"
+      alt="{{ .Title | plainify | default " " }}"
+      title="{{ .Params.CoverCredit |plainify|default "Cover Image" }}"
+      style="float: right; width:320px;" />
+  {{- end }}
   {{ with .Content }}
-    <div class="index-content">
       {{ . }}
+  {{ end }}
+</div>
+  {{ if not (.Params.hideContentList | default false) }}
+    <hr />
+    <div class="posts">
+      {{ range .Paginator.Pages }}
+        <article class="post on-list h-entry">
+          <h1 class="post-title e-content p-name">
+            <a class="u-url" href="{{ .Permalink }}">{{ .Title | markdownify }}</a>
+          </h1>
+          <div class="post-meta">
+            {{ if .Date }}
+              <time class="post-date dt-published">
+                {{ .Date.Format "2006-01-02" }} ::
+              </time>
+            {{ end }}
+            {{ with .Params.Author }}
+              <span class="post-author" rel="author">{{ . }}</span>
+            {{ end }}
+          </div>
+
+          {{ if .Params.tags }}
+            <span class="post-tags">
+              {{ range .Params.tags }}
+              #<a href="{{ (urlize (printf "tags/%s/" . )) | absLangURL }}">
+                {{- . -}}
+              </a>&nbsp;
+              {{ end }}
+            </span>
+          {{ end }}
+
+          {{ partial "cover.html" . }}
+
+          <div class="post-content">
+            {{ if .Params.showFullContent }}
+              {{ .Content }}
+            {{ else if .Description }}
+              {{ .Description | markdownify }}
+            {{ else }}
+              {{ .Summary }}
+            {{ end }}
+          </div>
+
+          {{ if not .Params.showFullContent }}
+            <div>
+              <a class="read-more button" href="{{.RelPermalink}}">{{ $.Site.Params.ReadMore }} →</a>
+            </div>
+          {{ end }}
+        </article>
+      {{ end }}
+
+      {{ partial "pagination.html" . }}
     </div>
   {{ end }}
-  <div class="posts">
-    {{ range .Paginator.Pages }}
-      <article class="post on-list h-entry">
-        <h1 class="post-title e-content p-name">
-          <a class="u-url" href="{{ .Permalink }}">{{ .Title | markdownify }}</a>
-        </h1>
-        <div class="post-meta">
-          {{ if .Date }}
-            <time class="post-date dt-published">
-              {{ .Date.Format "2006-01-02" }} ::
-            </time>
-          {{ end }}
-          {{ with .Params.Author }}
-            <span class="post-author" rel="author">{{ . }}</span>
-          {{ end }}
-        </div>
-
-        {{ if .Params.tags }}
-          <span class="post-tags">
-            {{ range .Params.tags }}
-            #<a href="{{ (urlize (printf "tags/%s/" . )) | absLangURL }}">
-              {{- . -}}
-            </a>&nbsp;
-            {{ end }}
-          </span>
-        {{ end }}
-
-        {{ partial "cover.html" . }}
-
-        <div class="post-content">
-          {{ if .Params.showFullContent }}
-            {{ .Content }}
-          {{ else if .Description }}
-            {{ .Description | markdownify }}
-          {{ else }}
-            {{ .Summary }}
-          {{ end }}
-        </div>
-
-        {{ if not .Params.showFullContent }}
-          <div>
-            <a class="read-more button" href="{{.RelPermalink}}">{{ $.Site.Params.ReadMore }} →</a>
-          </div>
-        {{ end }}
-      </article>
-    {{ end }}
-
-    {{ partial "pagination.html" . }}
-  </div>
 {{ end }}

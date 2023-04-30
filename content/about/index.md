@@ -11,9 +11,11 @@ hideComments : true
 
 {{< image src="https://mort8088.com/wp-content/uploads/2021/12/cropped-Me-512x512-1-270x270.png" alt="My Face" style="float:right; border-radius: 8px;" >}}
 
-Programming is my passion. I grew up at the start of the video game era when the scope of what could be achieved was just being discovered. This revolutionary time drew me in, and I began my journey firstly as an enthusiastic home programmer, moving into the industry for my career. During the two decades that have passed since then, I have continued to grow and develop my knowledge, keeping at the forefront of software systems design and development and mastering their use.
+Programming has been my passion since I was young. As a child growing up during the start of the video game era, I was captivated by the endless possibilities that could be achieved through coding. This revolutionary time sparked my interest, and I began my journey as a home programmer. Over the years, I have honed my skills, transitioning into a career in the industry and continuing to grow my knowledge.
 
-I enjoy using my skills across all fields, from designing custom projects to refining and optimizing existing programmes. I love sharing my skills and knowledge with others, working as a trainer to support my colleague’s development. Despite the time that has passed some things never change – I still love to pursue my interest in my spare time and have written video games and participated in the Microsoft XNA community.
+As a software developer, I thrive on using my expertise in designing custom projects and refining existing programs to optimize their functionality. Moreover, I enjoy sharing my knowledge with others, serving as a trainer to help my colleagues develop their skills.
+
+Despite having worked in the field for over two decades, my passion for programming remains as strong as ever. In my spare time, I enjoy pursuing my interests by writing video games and participating in the Indie Game Dev community.
 
 * * *
 
