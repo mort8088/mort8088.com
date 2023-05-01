@@ -14,7 +14,7 @@ Once you've installed the Operating System on your laptop we need to secure it s
 
 ## SSH Public/Private Keys
 
-Using SSH public/private keys is more secure than using a password. It also makes it easier and faster, to connect to our server because you don't have to enter a password.
+Using [SSH](https://en.wikipedia.org/wiki/Secure_Shell) public/private keys is more secure than using a password. It also makes it easier and faster, to connect to our server because you don't have to enter a password.
 
 1. From the computer you're going to use to connect to your server, **the client**, not the server itself, create an Ed25519[^1] key with:
 
@@ -99,61 +99,39 @@ Next, make these three changes:
 - Restrict root from logging in remotely
 - Restrict access to IPv4 or IPv6
 
-Open /etc/ssh/sshd_config using your text editor of choice and ensure these lines:
+Open `/etc/ssh/sshd_config` using your text editor of choice and ensure these lines:
 
-> PasswordAuthentication yes
-> PermitRootLogin yes
+``` bash
+PasswordAuthentication yes
+PermitRootLogin yes
+```
 
 look like this:
 
-> PasswordAuthentication no
-> PermitRootLogin no
+``` bash
+PasswordAuthentication no
+PermitRootLogin no
+```
 
 Next, restrict the SSH service to either IPv4 or IPv6 by modifying the AddressFamily option. To change it to use only IPv4 (which should be fine for most folks) make this change:
 
-> AddressFamily inet
+``` bash
+AddressFamily inet
+```
 
 Restart the SSH service to enable your changes. Note that it's a good idea to have two active connections to your server before restarting the SSH server. Having that extra connection allows you to fix anything should the restart go wrong.
 
-```bash
+``` bash
 sudo service sshd restart
-```
-
-## Install Fail2ban
-
-Fail2ban is an application that examines server logs looking for repeated or automated attacks. If any are found, it will alter the firewall to block the attacker's IP address either permanently or for a specified amount of time.
-
-You can install Fail2ban by typing:
-
-```bash
-sudo apt install fail2ban --assume-yes
-```
-
-Then copy the included configuration file:
-
-```bash
-sudo cp /etc/fail2ban/jail.conf /etc/fail2ban/jail.local
-```
-
-And restart Fail2ban:
-
-```bash
-sudo service fail2ban restart
-```
-
-That's all there is to it. The software will continuously examine the log files looking for attacks. After a while, the app will build up quite a list of banned IP addresses. You can view this list by requesting the current status of the SSH service with:
-
-```bash
-sudo fail2ban-client status ssh
 ```
 
 ## Enable a firewall
 
-Now you need to install a firewall, enable it, and configure it only to allow network traffic that you designate. Uncomplicated Firewall (UFW) is an easy-to-use interface to iptables that greatly simplifies the process of configuring a firewall.
+Now you need to install a firewall, enable it, and configure it only to allow network traffic that you designate. [Uncomplicated Firewall (UFW)](https://en.wikipedia.org/wiki/Uncomplicated_Firewall) is an easy-to-use interface to iptables that greatly simplifies the process of configuring a firewall.
 
 You can install UFW with:
 
-```bash
+``` bash
 sudo apt install ufw --assume-yes
 ```
 
@@ -161,7 +139,7 @@ By default, UFW blocks all incoming connections and allows all outgoing connecti
 
 First, make sure you can log in by enabling access to SSH, HTTP, and HTTPS:
 
-```bash
+``` bash
 sudo ufw allow ssh
 sudo ufw allow http
 sudo ufw allow https
@@ -169,20 +147,48 @@ sudo ufw allow https
 
 Then enable UFW:
 
-```bash
+``` bash
 sudo ufw enable
 ```
 
 You can see what services are allowed and denied with:
 
-```bash
+``` bash
 sudo ufw status
 ```
 
 If you ever want to disable UFW, you can do so by typing:
 
-```bash
+``` bash
 sudo ufw disable
+```
+
+## Install Fail2ban
+
+[Fail2ban](https://en.wikipedia.org/wiki/Fail2ban) is an application that examines server logs looking for repeated or automated attacks. If any are found, it will alter the firewall to block the attacker's IP address either permanently or for a specified amount of time.
+
+You can install Fail2ban by typing:
+
+``` bash
+sudo apt install fail2ban --assume-yes
+```
+
+Then copy the included configuration file:
+
+``` bash
+sudo cp /etc/fail2ban/jail.conf /etc/fail2ban/jail.local
+```
+
+And restart Fail2ban:
+
+``` bash
+sudo service fail2ban restart
+```
+
+That's all there is to it. The software will continuously examine the log files looking for attacks. After a while, the app will build up quite a list of banned IP addresses. You can view this list by requesting the current status of the SSH service with:
+
+``` bash
+sudo fail2ban-client status ssh
 ```
 
 ## Final thoughts
