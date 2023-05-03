@@ -2,13 +2,16 @@
 url: "/homelab/ubuntu-server/"
 title: "Installing Ubuntu Server"
 author: mort8088
-type: page
 date: 2023-04-08T00:00:00+00:00
 cover: "images/usb-drive.webp"
 description: "I'm going to show you how to install Ubuntu Server on your old laptop that's been collecting dust in your closet. Why? Well, for starters, you can use it as a personal cloud storage, a media server, a VPN server, a web server, or even a Minecraft server. The possibilities are endless."
 toc: false
 readingTime: false
 hideComments: false
+
+authorTwitter: "mort8088" #do not include @
+tags: [ "homelab", "linux", "server", "howto" ]
+showFullContent: false
 ---
 
 I'm going to show you how to install Ubuntu Server on your old laptop that's been collecting dust in your closet. Why? Well, for starters, you can use it as a personal cloud storage, a media server, a VPN server, a web server, or even a Minecraft server. The possibilities are endless.

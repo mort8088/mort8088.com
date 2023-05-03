@@ -71,7 +71,7 @@ disqusShortname= 'mort8088'
     subtitle = "My Internet frontpage"
     owner = "Dave Henry"
     keywords = "keywords"
-    copyright = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a>'
+    copyright = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a>'
     menuMore = "Show more"
     readMore = "Read more"
     readOtherPosts = "Read other posts"
@@ -107,6 +107,6 @@ disqusShortname= 'mort8088'
         weight = 40
       [[languages.en.menu.main]]
         identifier = "books"
-        name = "Library"
+        name = "Bookshelf"
         url = "/books"
-        weight = 40
+        weight = 50

@@ -21,3 +21,11 @@ So, whether you're interested in learning new skills, improving your online priv
 3. [Adding An External Data HDD](/homelab/ext-data-hdd/)
 4. Install Docker - *Coming Soon.*
 5. Working with Docker Compose - *Coming Soon.*
+
+< !--
+
+## Drafts
+
+1. [Install Docker](/homelab/docker/)
+1. [Working with Docker Compose](/homelab/docker-compose/)
+-->

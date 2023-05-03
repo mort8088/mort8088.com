@@ -1,13 +1,17 @@
 ---
+url: "/homelab/server-lockdown/"
 title: "Post install configuration"
 author: mort8088
-type: page
 date: 2023-04-30T00:00:00+00:00
 cover: "images/BashLogo.webp"
 description: "Once you've installed the Operating System on your laptop we need to secure it so it's not so easy for someone to get into your data."
 toc: true
 readingTime: false
 hideComments: false
+
+authorTwitter: "mort8088" #do not include @
+tags: [ "homelab", "linux", "server", "howto", "security", "bash" ]
+showFullContent: false
 ---
 
 Once you've installed the Operating System on your laptop we need to secure it so it's not so easy for someone to get into your data.

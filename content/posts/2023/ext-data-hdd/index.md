@@ -1,13 +1,17 @@
 ---
+url: "/homelab/ext-data-hdd/"
 title: "Adding An External DATA HDD"
 author: mort8088
-type: page
 date: 2023-05-01T00:00:00+00:00
 cover: "images/BashLogo.webp"
 description: "Keeping all the config data and the actual stored data away from the main OS drive makes for a headache free upgrade path when you accidentally kill your server, and you will kill the server at some point."
 toc: false
 readingTime: false
 hideComments: false
+
+authorTwitter: "mort8088" #do not include @
+tags: [ "homelab", "linux", "server", "howto", "bash" ]
+showFullContent: false
 ---
 
 Keeping all the config data and the actual stored data away from the main OS drive makes for a headache free upgrade path when you accidentally kill your server, and you *will* kill the server at some point.

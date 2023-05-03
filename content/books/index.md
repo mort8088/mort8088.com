@@ -1,5 +1,5 @@
 ---
-title: "📚 Books"
+title: "📚 Bookshelf"
 date: 2023-04-22T15:07:53+01:00
 author: mort8088
 type: page
@@ -14,3 +14,8 @@ I'm a dyslexic software engineer and reading has always been a bit of a chore, w
 I've set myself the goal of reading three books this year, preferably ones I haven't read before. 😉
 
 Here are my book reports :-
+
+## 2023
+
+<!-- - [Cory Doctorow - red team blues](/books/cory-doctorow_red-team-blues/) <!-- -->
+- Cory Doctorow - red team blues (***Currently Reading***) <!-- -->
