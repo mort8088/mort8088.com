@@ -19,13 +19,12 @@ So, whether you're interested in learning new skills, improving your online priv
 1. [Install Ubuntu Server](/homelab/ubuntu-server/)
 2. [Post install configuration](/homelab/server-lockdown/)
 3. [Adding An External Data HDD](/homelab/ext-data-hdd/)
-4. Install Docker - *Coming Soon.*
+4. [Install Docker](/homelab/docker/)
 5. Working with Docker Compose - *Coming Soon.*
 
 < !--
 
 ## Drafts
 
-1. [Install Docker](/homelab/docker/)
 1. [Working with Docker Compose](/homelab/docker-compose/)
 -->

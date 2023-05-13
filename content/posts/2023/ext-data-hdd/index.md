@@ -1,17 +1,17 @@
 ---
 url: "/homelab/ext-data-hdd/"
 title: "Adding An External DATA HDD"
-author: mort8088
 date: 2023-05-01T00:00:00+00:00
+author: mort8088
+authorTwitter: "mort8088" #do not include @
 cover: "images/BashLogo.webp"
 description: "Keeping all the config data and the actual stored data away from the main OS drive makes for a headache free upgrade path when you accidentally kill your server, and you will kill the server at some point."
+tags: [ "homelab", "linux", "server", "howto", "bash" ]
 toc: false
 readingTime: false
 hideComments: false
-
-authorTwitter: "mort8088" #do not include @
-tags: [ "homelab", "linux", "server", "howto", "bash" ]
 showFullContent: false
+
 ---
 
 Keeping all the config data and the actual stored data away from the main OS drive makes for a headache free upgrade path when you accidentally kill your server, and you *will* kill the server at some point.
@@ -70,7 +70,7 @@ At the bottom of the file add a new line with the following:
 UUID=<UUDI_OF_THE_NEW_DRIVE>    /media/data     <DRIVE_TYPE>    defaults    0   0
 ```
 
-Use a tab between each of the options. save the file (`Ctrl-X / Y / Return`)
+Use a tab between each of the options. Save the file (`Ctrl-X / Y / Return`)
 
 And before we reboot the server we need to test that it works by calling:-
 
@@ -86,4 +86,4 @@ ls /media/data
 
 And reboot or not the drive is working now it's up to you.
 
-That's it for today's tutorial. Next we'll set-up docker. If you have any questions or feedback, feel free to leave a comment below. And don't forget to subscribe to the blog so you'll know when I post the next exciting installment.
+That's it for today's tutorial. Next we'll set-up docker. If you have any questions or feedback, feel free to leave a comment below. And don't forget to subscribe to the [RSS](https://mort8088.com/index.xml) so you'll know when I post the next exciting installment.

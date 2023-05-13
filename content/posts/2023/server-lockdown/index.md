@@ -192,14 +192,36 @@ sudo service fail2ban restart
 That's all there is to it. The software will continuously examine the log files looking for attacks. After a while, the app will build up quite a list of banned IP addresses. You can view this list by requesting the current status of the SSH service with:
 
 ``` bash
-sudo fail2ban-client status ssh
+sudo fail2ban-client status sshd
+```
+
+## Ignore closing laptop lid
+
+One thing you'll need to fix is if you want the laptop to stay on even if you close the lid down.
+
+To disable entering the sleep mode edit `/etc/systemd/logind.conf` using your text editor of choice and ensure this line:
+
+``` bash
+# HandleLidSwitch=suspend
+```
+
+look like this:
+
+``` bash
+HandleLidSwitch=ignore
+```
+
+Then Save the file (`Ctrl-X / Y / Return`) and restart the login daemon:-
+
+``` bash
+sudo service systemd-logind restart
 ```
 
 ## Final thoughts
 
 This tutorial presents the bare minimum needed to harden a Linux server. Additional security layers can and should be enabled depending on how a server is used. These layers can include things like individual application configurations, intrusion detection software, and enabling access controls, e.g., two-factor authentication.
 
-That's it for today, next we'll set-up an external Hard drive to hold all our data. If you have any questions or feedback, feel free to leave a comment below. And don't forget to subscribe to the blog so you'll know when I post the next exciting installment.
+That's it for today, next we'll set-up an external Hard drive to hold all our data. If you have any questions or feedback, feel free to leave a comment below. And don't forget to subscribe to the [RSS](https://mort8088.com/index.xml) so you'll know when I post the next exciting installment.
 
 [^1]: [Ed25519](https://linux-audit.com/using-ed25519-openssh-keys-instead-of-dsa-rsa-ecdsa/) In public-key cryptography, Edwards-curve Digital Signature Algorithm (EdDSA) is a digital signature scheme using a variant of Schnorr signature based on twisted Edwards curves. It is designed to be faster than existing digital signature schemes without sacrificing security.
 [^2]: [MITM](https://en.wikipedia.org/wiki/Man-in-the-middle_attack) In cryptography and computer security, a man-in-the-middle attack is a cyberattack where the attacker secretly relays and possibly alters the communications between two parties who believe that they are directly communicating with each other, as the attacker has inserted themselves between the two parties.
