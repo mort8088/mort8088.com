@@ -1,12 +1,13 @@
 ---
 title: "📚 Bookshelf"
+author: "mort8088"
+type: "page"
 date: 2023-04-22T15:07:53+01:00
-author: mort8088
-type: page
 cover: "images/library.webp"
 toc: false
 readingTime : false
 hideComments : true
+hideContentList: true
 ---
 
 I'm a dyslexic software engineer and reading has always been a bit of a chore, with the exception of a few authors.

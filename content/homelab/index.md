@@ -1,5 +1,5 @@
 ---
-title: Homelab
+title: "🖥️ Homelab"
 author: mort8088
 type: page
 date: 2023-04-08T00:00:00+00:00
@@ -22,7 +22,7 @@ So, whether you're interested in learning new skills, improving your online priv
 4. [Install Docker](/homelab/docker/)
 5. Working with Docker Compose - *Coming Soon.*
 
-< !--
+<!--
 
 ## Drafts
 

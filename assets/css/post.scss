@@ -29,6 +29,10 @@
   &:not(:last-of-type) {
     border-bottom: 1px solid $border-color;
   }
+  
+  &-author {
+    padding-left: 10px;
+  }
 
   &-meta {
     font-size: 1rem;

@@ -1,7 +1,7 @@
 ---
 url: "/homelab/docker-compose/"
 title: "Installing Docker Compose"
-date: 2023-05-13T00:21:00+00:00
+date: 2023-06-13T00:21:00+00:00
 author: mort8088
 authorTwitter: "mort8088" #do not include @
 cover: "images/DockerComposeLogo.webp"
@@ -49,9 +49,6 @@ cd Docker
 ```
 
 Next we want to have a folder to hold the configurations for each container, I'm going to set up a [JellyFin](https://jellyfin.org) instance from [linuxserver.io](https://www.linuxserver.io). The reason for using the container from linuxserver.io is that they give a lot of documentation about getting them set up.
-
-
-
 
 ---
 

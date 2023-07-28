@@ -1,5 +1,5 @@
 ---
-title: Games
+title: "🎮 Games"
 author: mort8088
 type: page
 date: 2023-02-18T00:00:01+00:00

@@ -295,18 +295,19 @@ mark {
 }
 
 .container {
-  clear: both;
+  position: absolute;
+  margin: 40px 400px 0 0;
   display: flex;
   flex-direction: column;
   padding: 0 40px;
-  max-width: 1000px;
+  max-width: 100%;
   min-height: 100vh;
   border-right: 1px solid rgba(255, 255, 255, 0.1);
 
   &.full,
   &.center {
     border: none;
-    margin: 0 auto;
+    //margin: 0 auto;
   }
 
   &.full {
@@ -351,6 +352,9 @@ sup {
 }
 
 .headerextended {
+  z-index: 10;
+  position: fixed;
+  width: 100%;
   background-color: black;
   height:40px;
   margin: 0;
