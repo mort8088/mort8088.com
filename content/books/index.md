@@ -18,5 +18,6 @@ Here are my book reports :-
 
 ## 2023
 
-<!-- - [Cory Doctorow - red team blues](/books/cory-doctorow_red-team-blues/) <!-- -->
+<!-- -- >
+- [Cory Doctorow - red team blues](/books/cory-doctorow_red-team-blues/) <!-- -->
 - Cory Doctorow - red team blues (***Currently Reading***) <!-- -->

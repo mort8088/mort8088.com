@@ -4,7 +4,7 @@ author: "mort8088"
 type: "posts"
 date: "2022-03-19T00:00:24+00:00"
 url: "/2022/03/19/monogame-tutorial-1-fonts/"
-cover: "/wp-content/uploads/2022/02/MonoGame-SquareLogo_256px-150x150.webp"
+cover: "/images/uploads/2022/02/MonoGame-SquareLogo_256px-150x150.webp"
 authorTwitter: "mort8088" #do not include @
 tags : ["fonts", "gameDevelopment", "mgcb_Snippets", "monoGame", "tutorial"]
 showFullContent : false
@@ -19,7 +19,7 @@ To get started with making games it's often a good idea to be able to write out 
 To be able to use a TrueType font, MonoGame requires the TrueType font file and a .spritefont file.
 
 - Start the **MGCB Editor** and open the **Content.mgcb** file from your project Content folder.
-- Create the .spritefont file by right-clicking the Content node in the Project panel then &#8220;Add -> New Item&#8230;&#8221;, then select **SpriteFont Description** from the list fill in the **Name** and click **Create**. {{< image src="/wp-content/uploads/2022/03/New-Font-File-SystemFont.png" alt="New Font File" style="margin: auto;" >}}
+- Create the .spritefont file by right-clicking the Content node in the Project panel then &#8220;Add -> New Item&#8230;&#8221;, then select **SpriteFont Description** from the list fill in the **Name** and click **Create**. {{< image src="/images/uploads/2022/03/New-Font-File-SystemFont.png" alt="New Font File" style="margin: auto;" >}}
 - Open the newly created .spritefont file in VS code, find this line and change it to your selected .ttf font. If the font is installed on the system, just type the name of the font.
 
 ```xml
@@ -71,7 +71,7 @@ This will give you access to fonts like:-
 
 Another option is to download the [Redistributable Font Pack from XNAGameStudio](https://github.com/SimonDarksideJ/XNAGameStudio/wiki/Redistributable-Font-Pack) by downloading the zip file from the Archived GitHub site.
 
-{{< image src="https://mort8088.com/wp-content/uploads/2022/03/redistfonts.png" alt="" >}}
+{{< image src="/images/uploads/2022/03/redistfonts.png" alt="" >}}
 
 Once you download the zip file unarchive the contents of the zip file to your user font folder (~/.local/share/fonts).
 
@@ -103,7 +103,7 @@ If you don't like the fact you currently need a windows application to add conte
 - Add the following code segment to the mgcb.json file:-
 
 ```JavaScript
-  Sprite Font Description": {
+  "Sprite Font Description": {
     "prefix": "font",
     "body": [
       "#begin ${1:fileName}.spritefont",
@@ -125,7 +125,7 @@ Now when you want to add a new font to the project.
 - Right-click the Content folder and select "**New File from Template**".
 - Start typing _SpriteFont_ and hit enter to select and type the name of the file.
 - Next, open the **Content.mgcb** file for editing.
-- move to the end of the file and type _font_ when IntelliSense offers you the **sprite font description** {{< image src="/wp-content/uploads/2022/03/IntelliSense-font.png" alt="IntelliSense font" style="margin: auto;" >}}
+- move to the end of the file and type _font_ when IntelliSense offers you the **sprite font description** {{< image src="/images/uploads/2022/03/IntelliSense-font.png" alt="IntelliSense font" style="margin: auto;" >}}
 - hit tab and type the name of the file you just created followed by tab
 - you can edit the new font description file as normal.
 

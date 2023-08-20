@@ -4,7 +4,7 @@ author: "mort8088"
 type: "posts"
 date: "2013-03-31T00:00:12+00:00"
 url: "/2013/03/31/colony-defense/"
-cover: "/wp-content/uploads/2021/12/box_shot-1-109x150.webp"
+cover: "/images/uploads/2021/12/box_shot-1-109x150.webp"
 authorTwitter: "mort8088" #do not include @
 tags : ["indieGame", "towerDefense", "xna", "windows"]
 keywords : ["", ""]
@@ -21,8 +21,8 @@ There are 4 types of towers and 3 creeps. The tower types are gun, flame, freeze
 
 The music by FoxSynergy is the best part of this game.
 
-{{< image src="/wp-content/uploads/2021/12/ColonyDefense_2013-03-27_10-28-19-98-150x150.png" alt="" style="float: left;" >}}
-{{< image src="/wp-content/uploads/2021/12/ColonyDefense_2013-03-27_10-34-22-26-150x150.png" alt="" style="float: left;" >}}
-{{< image src="/wp-content/uploads/2021/12/ColonyDefense_2013-03-27_10-34-58-04-150x150.png" alt="" style="clear: right;" >}}
+{{< image src="/images/uploads/2021/12/ColonyDefense_2013-03-27_10-28-19-98.webp" alt="" style="float: left;" >}}
+{{< image src="/images/uploads/2021/12/ColonyDefense_2013-03-27_10-34-22-26.webp" alt="" style="float: left;" >}}
+{{< image src="/images/uploads/2021/12/ColonyDefense_2013-03-27_10-34-58-04.webp" alt="" style="clear: right;" >}}
 
 _Released as part of the 2013 One Game a Month._

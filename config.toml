@@ -17,7 +17,7 @@ disqusShortname= 'mort8088'
   themeColor = "orange"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 5
+  showMenuItems = 6
 
   # show selector to switch language
   showLanguageSelector = false
@@ -110,3 +110,8 @@ disqusShortname= 'mort8088'
         name = "Bookshelf"
         url = "/books"
         weight = 50
+      [[languages.en.menu.main]]
+        identifier = "game-development"
+        name = "Game Dev"
+        url = "/game-development"
+        weight = 60

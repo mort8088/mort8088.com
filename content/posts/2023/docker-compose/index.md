@@ -29,13 +29,13 @@ docker compose version
 
 Where vN.N.N is placeholder text standing in for the latest version, at time of writing it is *v2.17.3*.
 
-So I keep all my docker files on the external HDD so the first thing to do is move over there and as you remember from *"[Adding An External DATA HDD](/homelab/ext-data-hdd/)"* we mounted that drive at */media/data*:-
+I keep all my docker files on the external HDD so the first thing to do is move over there and as you remember from *"[Adding An External DATA HDD](/homelab/ext-data-hdd/)"* we mounted that drive at */media/data* :-
 
 ``` bash
 cd /media/data/
 ```
 
-So now your prompt "should" look like -
+So now your prompt "should" look something like -
 
 ``` bash
 [<username>@<servername>]data$ _
@@ -50,9 +50,11 @@ cd Docker
 
 Next we want to have a folder to hold the configurations for each container, I'm going to set up a [JellyFin](https://jellyfin.org) instance from [linuxserver.io](https://www.linuxserver.io). The reason for using the container from linuxserver.io is that they give a lot of documentation about getting them set up.
 
+
+
 ---
 
-That's it for today's installment. Next %Teaser for the next post%. If you have any questions or feedback, feel free to leave a comment below. And don't forget to subscribe to the [RSS](https://mort8088.com/index.xml) so you'll know when I post the next captivating installment.
+That's it for today's installment. Next %Teaser for the next post%. If you have any questions or feedback, feel free to leave a comment below. And don't forget to subscribe to the [RSS](/index.xml) so you'll know when I post the next captivating installment.
 
 <!-- %adjective% List 
 -- exciting

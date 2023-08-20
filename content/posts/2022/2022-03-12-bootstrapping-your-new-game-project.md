@@ -4,7 +4,7 @@ author: "mort8088"
 type: "posts"
 date: "2022-03-12T00:00:12+00:00"
 url: "/2022/03/12/bootstrapping-your-new-game-project/"
-cover: "/wp-content/uploads/2022/02/bash-logo-small-150x150.webp"
+cover: "/images/uploads/2022/02/bash-logo-small-150x150.webp"
 authorTwitter: "mort8088" #do not include @
 tags : ["bash", "gameDevelopment", "indieGame", "linux", "monoGame"]
 showFullContent : false
@@ -117,7 +117,7 @@ When you've finished save the newly minted script and move to a folder that you 
 
 You should see something like this:-
 
-{{< image src="/wp-content/uploads/2022/03/newGame-monogametest001.png" alt="" style="margin: auto;" >}}
+{{< image src="/images/uploads/2022/03/newGame-monogametest001.png" alt="" style="margin: auto;" >}}
 
 The only thing left to do is start Visual Studio Code and get coding but I'll leave that as an exercise for the reader.
 

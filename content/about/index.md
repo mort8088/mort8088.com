@@ -3,13 +3,13 @@ title: "🧑‍💻 About Me"
 author: mort8088
 type: page
 date: 2021-12-21T18:25:34+00:00
-cover: /wp-content/uploads/2021/12/GooglePlusCoverPhoto001-768x432.webp
+cover: /images/uploads/2021/12/GooglePlusCoverPhoto001-768x432.webp
 toc: false
 readingTime : false
 hideComments : true
 ---
 
-{{< image src="/wp-content/uploads/2021/12/cropped-Me-512x512-1-270x270.webp" alt="My Face" style="float:left; border-radius: 8px;" >}}
+{{< image src="/images/uploads/2021/12/cropped-Me-512x512-1-270x270.webp" alt="My Face" style="float:left; border-radius: 8px;" >}}
 
 Programming has been my passion since I was young. As a child growing up during the start of the video game era, I was captivated by the endless possibilities that could be achieved through coding. This revolutionary time sparked my interest, and I began my journey as a home programmer. Over the years, I have honed my skills, transitioning into a career in the industry and continuing to grow my knowledge.
 

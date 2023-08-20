@@ -4,7 +4,7 @@ author: "mort8088"
 type: "posts"
 date: "2021-12-01T00:00:16+00:00"
 url: "/2021/12/01/118/"
-cover: "/wp-content/uploads/2022/02/bash-logo-small-150x150.webp"
+cover: "/images/uploads/2022/02/bash-logo-small-150x150.webp"
 authorTwitter: "mort8088" #do not include @
 tags : ["bash", "linux"]
 showFullContent : false

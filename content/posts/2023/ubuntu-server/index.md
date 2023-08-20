@@ -194,4 +194,4 @@ Congratulations! You've successfully installed Ubuntu Server!
 
 Now you can reboot your laptop and log in with your username and password.
 
-That's it for today's tutorial. Next we'll set-up our client system to connect to the server using SSH and lock it down to be on the safe side. If you have any questions or feedback, feel free to leave a comment below. And don't forget to subscribe to the [RSS](https://mort8088.com/index.xml) for more content like this.
+That's it for today's tutorial. Next we'll set-up our client system to connect to the server using SSH and lock it down to be on the safe side. If you have any questions or feedback, feel free to leave a comment below. And don't forget to subscribe to the [RSS](/index.xml) for more content like this.

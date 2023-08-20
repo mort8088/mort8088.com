@@ -9,9 +9,9 @@ hideComments : true
 draft: true
 
 ---
-### [MORT8088.XML.XMLHELPER][1]
+## [MORT8088.XML.XMLHELPER][1]
 
-{{< image src="/wp-content/uploads/2022/01/C_Sharp-300x188.webp" alt="" style="float: right" >}}
+{{< image src="/images/uploads/2022/01/C_Sharp-300x188.webp" alt="" style="float: right" >}}
 
 The XmlHelper is a static class containing methods to complete a number of common tasks while working with XmlDocuments.
 
@@ -21,4 +21,4 @@ The XmlHelper is a static class containing methods to complete a number of commo
 
 &nbsp;
 
- [1]: https://mort8088.com/non-games/xmlhelper/
+ [1]: /non-games/xmlhelper/

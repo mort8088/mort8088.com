@@ -1,12 +1,12 @@
 ---
-title: "Comment Policy"
+title: "ℹ Comment Policy"
 author: "mort8088"
 type: "page"
 date: "2023-02-07T00:00:00+00:00"
 url: "/comment-policy"
 toc: false
+readingTime : false
 hideComments : true
-
 ---
 
 Welcome to mort8088.com, my Internet frontpage. I try my best to make sure that the discussions on my posts are troll, spam and abuse free but I'm not omnipresent. The comment section can be a great place for interaction with readers and even for spawning stimulating conversation – it can be a great place for all of us!

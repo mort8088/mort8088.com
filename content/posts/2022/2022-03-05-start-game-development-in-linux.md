@@ -4,7 +4,7 @@ author: "mort8088"
 type: "posts"
 date: "2022-03-05T00:00:23+00:00"
 url: "/2022/03/05/start-game-development-in-linux/"
-cover: "/wp-content/uploads/2022/02/MonoGame-SquareLogo_256px-150x150.webp"
+cover: "/images/uploads/2022/02/MonoGame-SquareLogo_256px-150x150.webp"
 authorTwitter: "mort8088" #do not include @
 tags : ["bash", "gameDevelopment", "indieGame", "linux", "monoGame"]
 showFullContent : false
@@ -37,15 +37,15 @@ and grab the latest version of the install script
   git clone https://github.com/Kwyrky/InstallMonoGameLinuxScript.git
 ```
 
-{{< image src="/wp-content/uploads/2022/03/install-monoGame-Screenshot-001.png" alt="result of calling git clone command" style="margin: auto;" >}}
+{{< image src="/images/uploads/2022/03/install-monoGame-Screenshot-001.png" alt="result of calling git clone command" style="margin: auto;" >}}
 
 Once that command has been completed you should have a new folder called InstallMonoGameLinuxScript change in to that folder with the cd command and there will be a _.sh_ file inside as with anything on the internet you should read through it so you are confident that it does what you expect it to, I did which is why I'm confident that this works as intended. Call the script, because we're installing new software to your system it'll ask you for your sudo password then sit back and watch as everything you need to get started writing games in linux is put in the right place.
 
-{{< image src="/wp-content/uploads/2022/03/install-monoGame-Screenshot-002.png" alt="Starting the script with request your SUDO password to install software" style="margin: auto;" >}}
+{{< image src="/images/uploads/2022/03/install-monoGame-Screenshot-002.png" alt="Starting the script with request your SUDO password to install software" style="margin: auto;" >}}
 
 You'll know that the script is finished when you get your command prompt back.
 
-{{< image src="/wp-content/uploads/2022/03/install-monoGame-Screenshot-003.png" alt="End of the script returns to the command prompt." style="margin:auto;" >}}
+{{< image src="/images/uploads/2022/03/install-monoGame-Screenshot-003.png" alt="End of the script returns to the command prompt." style="margin:auto;" >}}
 
 Towards the end of the script, it will create two test projects and run them to demonstrate that everything has worked, you can just press the _**Esc**_ key to exit from each of them.
 

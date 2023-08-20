@@ -86,4 +86,4 @@ ls /media/data
 
 And reboot or not the drive is working now it's up to you.
 
-That's it for today's tutorial. Next we'll set-up docker. If you have any questions or feedback, feel free to leave a comment below. And don't forget to subscribe to the [RSS](https://mort8088.com/index.xml) so you'll know when I post the next exciting installment.
+That's it for today's tutorial. Next we'll set-up docker. If you have any questions or feedback, feel free to leave a comment below. And don't forget to subscribe to the [RSS](/index.xml) so you'll know when I post the next exciting installment.

@@ -120,4 +120,4 @@ sudo systemctl start docker.service
 ```
 
 ---
-That's it for today's installment. Next we'll go over docker compose. If you have any questions or feedback, feel free to leave a comment below. And don't forget to subscribe to the [RSS](https://mort8088.com/index.xml) so you'll know when I post the next enthralling installment.
+That's it for today's installment. Next we'll go over docker compose. If you have any questions or feedback, feel free to leave a comment below. And don't forget to subscribe to the [RSS](/index.xml) so you'll know when I post the next enthralling installment.
