@@ -32,6 +32,7 @@
   
   &-author {
     padding-left: 10px;
+    padding-right: 10px;
   }
 
   &-meta {
@@ -65,7 +66,7 @@
 
   &-tags {
     display: block;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
     font-size: 1rem;
     opacity: .5;
 
@@ -75,7 +76,7 @@
   }
 
   &-content {
-    margin-top: 10px;
+    margin-top: 5px;
   }
 
   &-cover {
