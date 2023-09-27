@@ -22,3 +22,5 @@ Despite having worked in the field for over two decades, my passion for programm
 ## Skills and Specialisms
 
 Software Engineer | Developer | Applications Engineer | Internet Applications Developer | MCPS – Microsoft Certified Professional | Microsoft: Programming in C# | C# .NET Framework 4 | XNA | MonoGame | Angular | T-SQL | C++ | ASP Classic | ASP.NET | PHP | HTML 5 & CSS3 | JavaScript | Typescript | Windows | Linux | IIS | Apache | PC Building/Support | Network Programming | Windows Forms | Windows Services | Siemens WinCC 7.x | Simatic IT 6.5/7.0 | Simatic IT UADM 1.1 | Preactor
+
+![8values results](/images/8valuesresults.webp)
