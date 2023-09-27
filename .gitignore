@@ -19,6 +19,9 @@ deploy
 *.ipa
 *.apk
 
+# Hide Hugo Theme files
+themes/terminal/
+
 # Hugo
 public/
 
