@@ -60,7 +60,7 @@ That's it for today's installment. Next %Teaser for the next post%. If you have 
 -- exciting
 -- enthralling
 -- captivating
-engrossing
+-- engrossing
 fascinating
 gripping
 riveting
