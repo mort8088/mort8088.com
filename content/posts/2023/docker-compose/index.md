@@ -50,8 +50,6 @@ cd Docker
 
 Next we want to have a folder to hold the configurations for each container, I'm going to set up a [JellyFin](https://jellyfin.org) instance from [linuxserver.io](https://www.linuxserver.io). The reason for using the container from linuxserver.io is that they give a lot of documentation about getting them set up.
 
-
-
 ---
 
 That's it for today's installment. Next %Teaser for the next post%. If you have any questions or feedback, feel free to leave a comment below. And don't forget to subscribe to the [RSS](/index.xml) so you'll know when I post the next captivating installment.
