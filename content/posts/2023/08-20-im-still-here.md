@@ -2,7 +2,6 @@
 title = "I'm still here"
 date = "2023-08-20T00:00:00+01:00"
 author = "mort8088"
-authorTwitter = "mort8088" #do not include @
 cover = "images/Im_still_here.webp"
 tags = ["irl"]
 description = "It's been a while, but let's not dwell on it."
