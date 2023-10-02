@@ -8,5 +8,7 @@
         "geoip",
         "itchio",
         "ITVX"
-    ]
+    ],
+    "[markdown]": {
+    }
 }

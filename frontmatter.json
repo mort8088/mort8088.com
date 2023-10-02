@@ -24,8 +24,8 @@
           "isPublishDate": true
         },
         {
-          "title": "Content preview",
-          "name": "preview",
+          "title": "Cover",
+          "name": "cover",
           "type": "image"
         },
         {
@@ -42,6 +42,31 @@
           "title": "Categories",
           "name": "categories",
           "type": "categories"
+        },
+        {
+          "title": "Author",
+          "name": "author",
+          "type": "string"
+        },
+        {
+          "title": "Show Full Content",
+          "name": "showFullContent",
+          "type": "boolean"
+        },
+        {
+          "title": "Show Reading Time",
+          "name": "readingTime",
+          "type": "boolean"
+        },
+        {
+          "title": "Hide Comments",
+          "name": "hideComments",
+          "type": "boolean"
+        },
+        {
+          "title": "Show Table of Content",
+          "name": "toc",
+          "type": "boolean"
         }
       ]
     }
