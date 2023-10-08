@@ -315,6 +315,7 @@ mark {
   }
 
   @media ($phone) {
+    margin: 110px 400px 0 0;
     padding: 0 20px;
   }
 
@@ -358,17 +359,17 @@ sup {
   background-color: black;
   height:40px;
   margin: 0;
-
   ul{
+    background-color: $background;
     float:left;
-    margin: 8px;
+    margin: 0px;
     list-style: none;
-    padding-left: 5px;
+    padding-left: 0px;
 
     li {
       display:inline;
       color: $accent;
-    }
+    }  
   }
 
   a {
@@ -382,4 +383,17 @@ sup {
  */
 .h-card, .e-content, .p-name, .p-author, .p-note, .u-url, .u-photo, .dt-published  { 
   box-sizing: inherit;
+}
+
+
+.mastofeed {
+  top:40px;
+  right:0px;
+  width:400px;
+  height:95vh;
+  position: fixed;
+  @media ($phone) {
+    display: none;
+  }
+
 }
