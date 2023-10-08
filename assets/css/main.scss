@@ -360,11 +360,14 @@ sup {
   height:40px;
   margin: 0;
   ul{
-    background-color: $background;
     float:left;
     margin: 0px;
     list-style: none;
     padding-left: 0px;
+    
+    @media ($phone) {
+      background-color: $background;
+    }
 
     li {
       display:inline;
