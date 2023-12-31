@@ -395,7 +395,7 @@ sup {
   width:400px;
   height:95vh;
   position: fixed;
-  @media ($phone) {
+  @media only screen and (max-width: 1635px) {
     display: none;
   }
 
