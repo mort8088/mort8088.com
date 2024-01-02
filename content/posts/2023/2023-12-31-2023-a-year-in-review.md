@@ -21,7 +21,7 @@ As humanity follows the cyclical dance of our planet around its nearest star, ma
 
 ![Dad and I](/images/dad-and-i-320x220.webp)
 
-The year kicked off on a somber note with the loss of my father. After battling bouts of COVID and the onset of what seemed like Alzheimer's, his passing felt merciful.He'd always been the smartest person I knew, facing his decline would have been too much. Dad was never far from my thoughts and this year since his passing even more so.
+The year kicked off on a somber note with the loss of my father. After battling bouts of COVID and the onset of what seemed like Alzheimer's, his passing felt merciful. He'd always been the smartest person I knew, facing his decline would have been too much. He was never far from my thoughts and this year since his passing even more so.
 
 But as he'd say, "Never let the bastards grind you down." It's my way of pushing forward 😉
 
@@ -74,6 +74,8 @@ But the drive was absent. I couldn't fathom a reason to post.
 Discovering React for work in September rekindled my interest in crafting APIs in .NET. Slowly, I started delving into code as I had years ago.
 
 Project ideas surfaced, yet I felt burdened and lethargic. Change was imperative, but its form eluded me.
+
+*Turns out the Bastard was me all along.*
 
 Then, one afternoon, I realized I couldn't watch others live the life I aspired to. I pruned my YouTube subscriptions, slashing what was 200 to about 70ish *(yes, excessive YouTube watching was no joke...)*
 
